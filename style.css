@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    /* border: 2px solid black; */
+}
+
+.slider{
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    /* border: 2px solid black; */
+}
